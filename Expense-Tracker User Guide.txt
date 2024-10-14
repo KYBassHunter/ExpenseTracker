@@ -1,0 +1,45 @@
+User Guide
+Welcome to the Budget Tracker! This guide will walk you through how to use the application effectively to manage your personal finances.
+Getting Started
+To start the Budget Tracker, run the Python script in your terminal or command prompt. You'll be presented with a menu of options to choose from.
+Adding Income
+From the main menu, select option 1 by entering "1" and pressing Enter.
+You'll be prompted to enter an income amount. Type the amount as a number (e.g., 1000 or 1000.50) and press Enter.
+If the input is valid, you'll see a confirmation message. If not, an error message will guide you to enter a valid amount.
+Tips:
+You can add income multiple times if you have various sources of income.
+Always enter income as a positive number.
+Adding Expenses
+From the main menu, select option 2 by entering "2" and pressing Enter.
+You'll be asked to provide three pieces of information:
+a. Expense description: A brief note about what the expense is for (e.g., "Groceries" or "Electric Bill").
+b. Expense amount: The cost of the expense as a number.
+c. Expense category: A category to group this expense (e.g., "Food", "Utilities", "Entertainment").
+Enter each piece of information when prompted, pressing Enter after each.
+If all inputs are valid, you'll see a confirmation message.
+Tips:
+Be consistent with your category names to make tracking easier.
+You can be as specific or general with your descriptions as you like.
+Always enter expense amounts as positive numbers.
+Viewing Budget Overview
+From the main menu, select option 3 by entering "3" and pressing Enter.
+You'll see a comprehensive overview of your current budget, including:
+Total Income
+Total Expenses
+Remaining Budget (Income - Expenses)
+A breakdown of expenses by category
+Tips:
+Review your budget overview regularly to stay on top of your finances.
+Pay attention to which categories are taking up the largest portions of your budget.
+Exiting the Application
+From the main menu, select option 4 by entering "4" and pressing Enter.
+The application will display a farewell message and close.
+Best Practices for Using the Budget Tracker
+Regular Updates: Make it a habit to input your income and expenses regularly, ideally daily or weekly, to maintain an accurate picture of your finances.
+Consistent Categorization: Try to use consistent category names for your expenses. This will make it easier to track spending patterns over time.
+Detailed Descriptions: While not required, providing detailed descriptions for your expenses can help you remember what each expense was for when reviewing your budget later.
+Multiple Income Sources: If you have multiple sources of income, add each separately rather than as a lump sum. This helps in tracking which income sources are contributing most to your budget.
+Review and Adjust: Regularly review your budget overview and adjust your spending habits based on what you see. If certain categories are consistently over-budget, you may need to make changes.
+Error Handling: If you make a mistake while entering data, don't worry. The application will provide error messages to guide you. Simply try the input again with the correct information.
+Backup Your Data: As this is a simple application, it doesn't save data between sessions. Consider keeping a separate record of your inputs or take screenshots of your budget overviews for future reference.
+By following these guidelines and regularly using the Budget Tracker, you'll gain valuable insights into your spending habits and be better equipped to make informed financial decisions. Remember, the key to successful budgeting is consistency and honesty in tracking your finances. 
